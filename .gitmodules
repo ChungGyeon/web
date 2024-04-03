@@ -10,3 +10,6 @@
 [submodule "themes/ChungGyeon.github.io"]
 	path = themes/ChungGyeon.github.io
 	url = https://github.com/ChungGyeon/ChungGyeon.github.io.git
+[submodule "themes/public"]
+	path = themes/public
+	url = https://github.com/ChungGyeon/ChungGyeon.github.io
