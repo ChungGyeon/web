@@ -43,7 +43,7 @@ education:
   enable: true
   title: "Education"
   items: # TODO: 학력 추가
-    - university: "Chungbuk University"
+    - university: "Chungbuk_University"
       year: "[2020]-[2025]"
       degree: "[Communication and Information]"
 
