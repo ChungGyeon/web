@@ -1,13 +1,13 @@
 # homepage
 homepage:
   head:
-    title: "Home | [이름]" # TODO: 이름 추가
+    title: "Home | JeaHyuk" # TODO: 이름 추가
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m [이름]" # TODO: 이름 추가
+  title: "Hello, I’m JeaHyuk" # TODO: 이름 추가
   subtitle: "Developer"
-  description: "[소개]" # TODO: 소개 추가
+  description: "Im me" # TODO: 소개 추가
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
@@ -43,9 +43,9 @@ education:
   enable: true
   title: "Education"
   items: # TODO: 학력 추가
-    - university: "University of 학교명"
-      year: "[입학년도]-[졸업년도]"
-      degree: "[학위 및 전공]"
+    - university: "Chungbuk University"
+      year: "[2020]-[2025]"
+      degree: "[Communication and Information]"
 
 # projects
 projects:
